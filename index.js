@@ -176,3 +176,23 @@
 // function recebe(string) {
 //     for(let i= 0; i < string.legth; i++)
 // }
+
+ let func=(a, b)=> {
+    console.log(a+b)
+    console.log(a-b)
+    console.log(a*b)
+    console.log(a/b)
+     
+    }
+
+    func(10,5)
+    
+function returnValue(a,b) {
+
+    console.log(a+b)
+    console.log(a-b)
+    console.log(a*b)
+    console.log(a/b)
+}
+
+returnValue( 10,5)
